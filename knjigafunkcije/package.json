@@ -1,0 +1,26 @@
+{
+  "name": "knjigafunkcije",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knjigafunkcije.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaranrt2017/vezba5.git"
+  },
+  "keywords": [
+    "funkcije",
+    "vezba5"
+  ],
+  "author": "Tamara Savic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaranrt2017/vezba5/issues"
+  },
+  "homepage": "https://github.com/tamaranrt2017/vezba5#readme",
+  "dependencies": {
+    "knjiga": "file:../knjiga"
+  }
+}
